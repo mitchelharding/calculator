@@ -1,0 +1,15 @@
+.box{
+  padding-top:8px;
+  padding-left: 23px;
+  margin:10px;
+  width:80px;
+  height: 40px;
+  background-color: skyblue;
+  border: solid 2px #00FFFF;
+
+}
+
+.form-group{
+  margin: 20px;
+
+}
